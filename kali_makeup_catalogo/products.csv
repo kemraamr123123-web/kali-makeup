@@ -1,0 +1,36 @@
+id,name,brand,category,price,stock,description,image_url,active
+1,Matte Cover 12 Horas,Pink Up,Rostro,220,10,"Base mate de 12 horas de duración","Matte12.JPEG",true
+2,Liquid Concealer,Pink Up,Rostro,98,12,"Corrector líquido de alta cobertura para ojeras e imperfecciones","Corrector.JPEG",true
+3,Polvo Suelto Correctivo,Pink Up,Rostro,110,8,"Matifica y unifica el tono de tu piel","Polvo.jpeg",true
+4,Face Primer,Pink Up,Rostro,95,15,"Prebase que prolonga la duración de tu maquillaje","primer.jpeg",true
+5,Rubor Líquido Dream,Pink Up,Rostro,84,20,"Rubor ligero, fácil de difuminar, acabado natural","blush.jpeg",true
+6,FX Fixer Fijador,Pink Up,Rostro,135,10,"Fija tu maquillaje por muchas horas","fiijador.jpeg",true
+7,Agua Micelar,Pink Up,Rostro,168,7,"Limpia y refresca tu rostro de forma suave","agua_micelar.jpeg",true
+8,Máscara Ultra Lashes,Pink Up,Ojos,118,14,"Pestañas largas, voluminosas y resistente al agua","rimel.jpeg",true
+9,Delineador Long Lasting,Pink Up,Ojos,90,18,"Color negro intenso, aplicación fácil y precisa","delieador.jpeg",true
+10,Lápiz de Cejas Microfine,Pink Up,Cejas,85,16,"Punta fina para dibujar cada pelo de tu ceja","lappiz.jpeg",true
+11,Kiss Lip Tint,Pink Up,Labios,59,25,"Tinte labial de colores intensos y larga duración","tinta.jpeg",true
+12,Super Glossy,Pink Up,Labios,95,22,"Gloss brillante, hidratante y muy bonito","glossi.jpeg",true
+13,Shimmer Mist Secret Dahlia,Pink Up,Cuerpo,128,10,"Bruma con brillito, aroma delicioso para cuerpo y cabello","1.jpeg",true
+14,Shimmer Mist Aqua Breeze,Pink Up,Cuerpo,128,10,"Bruma con brillito, aroma fresco y ligero","2.jpeg",true
+15,Shimmer Mist Sun Glow,Pink Up,Cuerpo,128,10,"Bruma con brillito, aroma cálido y dulce","3.jpeg",true
+16,Shimmer Mist Sweet Apple,Pink Up,Cuerpo,128,10,"Bruma con brillito, aroma de manzana dulce","4.jpeg",true
+17,Shimmer Mist Million Stars,Pink Up,Cuerpo,128,10,"Bruma con brillito, aroma sofisticado y encantador","5.jpeg",true
+18,Shimmer Mist Glitter Kiss,Pink Up,Cuerpo,128,10,"Bruma con brillito, aroma romántico y dulce","6.jpeg",true
+19,Matte HD,Pink Up,Rostro,138,9,"Polvo compacto matificante de cobertura media","7.jpeg",true
+20,Iluminador Luminous Powder,Pink Up,Rostro,128,7,"Iluminador compacto con acabado luminoso precioso","8.jpeg",true
+21,Blush Compacto,Pink Up,Rostro,75,18,"Rubor compacto pigmentado para dar color a tus mejillas","9.jpeg",true
+24,Organic Brows Gel de Cejas,Pink Up,Cejas,88,16,"Gel para cejas, fija y define todo el día","10.jpeg",true
+25,Lipstick Matte,Pink Up,Labios,68,30,"Labial mate clásico, colores nude y pigmentados","11.jpeg",true
+26,Ultimate Liquid Lipstick,Pink Up,Labios,95,24,"Labial líquido mate de alta duración","12.jpeg",true
+27,Everlasting Lip Liner,Pink Up,Labios,70,22,"Delineador cremoso para labios, no se corre","13.jpeg",true
+28,Magic Lip Oil,Pink Up,Labios,95,15,"Aceite labial hidratante con aroma delicioso","14.jpeg",true
+29,Body Mist Strawberry Champagne,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma dulce de fresa","15.jpeg",true
+30,Body Mist Tropical Beach,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma tropical fresco","16.jpeg",true
+31,Body Mist Sheer Love,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma romántico dulce","17.jpeg",true
+32,Body Mist Secret Wish,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma sofisticado","18.jpeg",true
+33,Body Mist Pink Scent,Pink Up,Mist,105,12,"Bruma corporal sin brillo, el aroma clásico Pink Up","19.jpeg",true
+34,Body Mist Mon Paris,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma elegante y envolvente","20.jpeg",true
+35,Body Mist Enchanted Apple,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma de manzana dulce","21.jpeg",true
+36,Body Mist Coco Vainilla,Pink Up,Mist,105,12,"Bruma corporal sin brillo, coco, vainilla y caramelo","22.jpeg",true
+37,Body Mist After Party,Pink Up,Mist,105,12,"Bruma corporal sin brillo, aroma de fiesta","23.jpeg",true
