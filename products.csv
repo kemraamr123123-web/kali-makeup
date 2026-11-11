@@ -1,7 +1,7 @@
 id,name,brand,category,price,stock,description,image_url,active
 1,Matte Cover 12 Horas,Pink Up,Rostro,220,10,"Base mate de 12 horas de duración","Matte12.JPEG",true
-2,Liquid Concealer,Pink Up,Rostro,98,12,"Corrector líquido de alta cobertura para ojeras e imperfecciones","Corrector.JPEG",true
-3,Polvo Suelto Correctivo,Pink Up,Rostro,110,8,"Matifica y unifica el tono de tu piel","Polvo.jpeg",true
+2,Liquid Concealer,Pink Up,Rostro,90,12,"Corrector líquido de alta cobertura para ojeras e imperfecciones","Corrector.JPEG",true
+3,Polvo Suelto Correctivo,Pink Up,Rostro,150,8,"Matifica y unifica el tono de tu piel","Polvo.jpeg",true
 4,Face Primer,Pink Up,Rostro,95,15,"Prebase que prolonga la duración de tu maquillaje","primer.jpeg",true
 5,Rubor Líquido Dream,Pink Up,Rostro,84,20,"Rubor ligero, fácil de difuminar, acabado natural","blush.jpeg",true
 6,FX Fixer Fijador,Pink Up,Rostro,135,10,"Fija tu maquillaje por muchas horas","fiijador.jpeg",true
